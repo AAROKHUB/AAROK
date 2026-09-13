@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="AAROK">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#00f5ff"/>
+      <stop offset="1" stop-color="#a855f7"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="#04060d"/>
+  <rect x="1.5" y="1.5" width="61" height="61" rx="12.5" fill="none" stroke="url(#g)" stroke-width="2" opacity=".55"/>
+  <path d="M32 13 46 51h-8.2l-2.4-7.1H26.6L24.2 51H16L30 13z" fill="url(#g)"/>
+  <path d="M28.6 37.2h6.8L32 26.4z" fill="#04060d"/>
+</svg>
